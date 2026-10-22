@@ -133,6 +133,12 @@ Development priorities include:
 
 The sequence and availability of individual capabilities depend on implementation progress, customer requirements, testing, and applicable clinical and operational validation.
 
+## Documentation
+
+- [Healthcare Lifecycle](docs/HEALTHCARE_LIFECYCLE.md) — Understand how FASOSH is intended to connect the patient journey, clinical services, and healthcare operations.
+- [Frequently Asked Questions](docs/FAQ.md) — Find answers about FASOSH, its intended users, product availability, and enquiries.
+- [Product Roadmap](docs/PRODUCT_ROADMAP.md) — Explore the product vision, development priorities, and future direction.
+  
 ## Product Status
 
 FASOSH is under active development. The complete product vision extends beyond any single module or release.
