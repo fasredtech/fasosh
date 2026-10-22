@@ -10,7 +10,8 @@
 </p>
 
 **FASOSH**
-FASOSH is a healthcare operating platform by **FASRED Technologies Ltd**, designed to connect patients, healthcare professionals, facilities, clinical services, resources, and operational workflows within one configurable system.
+
+##FASOSH is a healthcare operating platform by **FASRED Technologies Ltd**, designed to connect patients, healthcare professionals, facilities, clinical services, resources, and operational workflows within one configurable system.
 
 Healthcare does not happen in isolated departments. A patient's journey may involve registration, triage, consultation, laboratory investigations, imaging, pharmacy, billing, admission, referral, and follow-up. Each stage depends on people, information, decisions, and resources across the organisation.
 
