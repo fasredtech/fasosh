@@ -1,8 +1,8 @@
-# FASOSH
-
 <p align="center">
-  <strong>The Operating System for Healthcare</strong>
+  <img src="fasosh-logo-light.png" alt="FASOSH logo" width="220">
 </p>
+
+**FASOSH**
 
 <p align="center">
   <a href="https://health.fasosh.com">Product Website</a> ·
